@@ -1,2 +1,2 @@
 # AwardWinningMovie
-A Java app that implements movie database that a user can search through
+A Java app that implements a movie database that a user can search through
