@@ -1,15 +1,3 @@
-/*
-Author: Christopher Roberts
-E-mail: cmr663@psu.edu
-Course: CMPSC 221
-Assigment: Programming Assigment 4
-Due Date: 3/17/2020
-File: Online Shopping Application.java
-Purpose: Java app that implements movie database that a user can search through
-Compiler/IDE: IntelliJ IDEA
-Operating System: MS Windows 10
-References: https://www.geeksforgeeks.org/java-string-contains-method-example/
- */
 import java.io.*;
 import java.util.*;
 
